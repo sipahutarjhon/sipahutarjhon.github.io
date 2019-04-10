@@ -1,0 +1,7 @@
+curl:
+https://android.googleapis.com/gcm/send/f4mMhTw-pnY:APA91bGQDqUIsMtUJQT6BfypQrmTILOLeUNQ9oY4K6J1ie3kN2xzetxVTs14WAdkCsacCRYOZIZQZZSnV-K6_AD_MpvzB7dFIK3KmSL8wNM28jC18zIv3MN-aXrgVPT01DfQsrbIX8kK
+
+ --request POST --header "TTL: 60" --header "Content-Length: 0" --header "
+
+server key:
+AAAAcpL3o5g:APA91bEArlQ-wpB-0PcYYcQ4fZtwc06CialgOO0h3hbG5LtIA0wc9QgjsVyRDzv1lkeuR0qTQ8VAGnH9sROzsJF6PC2LYD5dX7rgPoaZvs_zH1l1NSXWDmh-Bw9F9ZcmiSS8yaNmH7z-
